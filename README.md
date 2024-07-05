@@ -1,3 +1,4 @@
+
 ## Preferred IDE: Pycharm
 
 ### Test the streamlit app on local:
@@ -103,3 +104,6 @@ sudo docker login
  ```
  $ sudo docker rmi -f IMAGE_ID
  ```
+=======
+# Public_ML_StreamlitProject
+
